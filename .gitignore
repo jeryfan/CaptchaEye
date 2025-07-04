@@ -195,3 +195,5 @@ cython_debug/
 
 mnist/data/
 mnist/models/
+data/
+outputs/
